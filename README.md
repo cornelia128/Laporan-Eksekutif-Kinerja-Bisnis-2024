@@ -25,35 +25,39 @@ Q4; sinyal momentum bisnis makin kuat menjelang 2025.
 North America: 40,4% dari total pelanggan (vs Europe 31,6% & Asia-Pacific 28,0%)**
 North America adalah kontributor pelanggan terbesar secara signifikan; ini jadi kekuatan utama, tapi juga risiko konsentrasi yang perlu diimbangi dengan pertumbuhan di dua wilayah lain.
 
-**Regional Revenue Trends (Tren Pendapatan Wilayah):**
+**Regional Revenue Trends (Tren Pendapatan Wilayah)**
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/1.png?raw=true" width=500 height=300>
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/Regional%20Revenue%20Trends%20in%202024.png?raw=true" width=500 height=300>
+
 Pendapatan di ketiga wilayah menunjukkan pertumbuhan yang stabil setiap kuartalnya, dengan Amerika Utara sebagai pemimpin pasar yang dominan.
 
 
-**Regional Operating Margin Trends (Tren Margin Operasional):**
+**Regional Operating Margin Trends (Tren Margin Operasional)**
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/2.png?raw=true" width=500 height=300>
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/Regional%20Operating%20Margin%20Trends%20in%202024%20(%25).png?raw=true" width=500 height=300>
+
 Amerika Utara mempertahankan margin operasional tertinggi, meskipun secara keseluruhan semua wilayah mengalami sedikit penurunan atau fluktuasi margin antara Q1 dan Q4.
 
   
-**Forecast vs Actual Revenue (Perkiraan vs Pendapatan Aktual):** 
+**Forecast vs Actual Revenue (Perkiraan vs Pendapatan Aktual)** 
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/3.png?raw=true" width=500 height=300>
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/Forecast%20vs%20Actual%20Revenue%20in%202024.png?raw=true" width=500 height=300>
+
 Kinerja bisnis sangat baik karena pendapatan aktual secara konsisten melampaui target perkiraan di setiap kuartal sepanjang tahun 2024
 
   
-**Customer Distribution (Distribusi Pelanggan):** 
+**Customer Distribution (Distribusi Pelanggan)** 
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/4.png?raw=true" width=500 height=300>
 
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/Customer%20Distribution%20by%20Region%20in%202024.png?raw=true" width=500 height=300>
+
 Amerika Utara mendominasi basis pelanggan global dengan pangsa 40,4%, diikuti oleh Eropa sebesar 31,6% dan Asia-Pasifik sebesar 28,0%.
 
 ## Recommendation
