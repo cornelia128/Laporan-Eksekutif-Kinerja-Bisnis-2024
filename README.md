@@ -2,6 +2,7 @@
 
 **Revenue tumbuh di semua wilayah sepanjang tahun 2024. Namun, margin Asia-Pacific yang terus tertekan mengancam profitabilitas menuju 2025.**
 
+[Excel](https://docs.google.com/spreadsheets/d/1UZJw5ZrVAnfexMyrDOlS9sZXQSjS9BQ1/edit?usp=sharing&ouid=102194302271497682026&rtpof=true&sd=true)
 <img src="https://github.com/cornelia128/Laporan-Eksekutif-Kinerja-Bisnis-2024/blob/main/images/Kinerja%20Bisnis%202024.png?raw=true" width=500 height=300>
 
 **KPI 1: Revenue**
